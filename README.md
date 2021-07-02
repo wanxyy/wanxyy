@@ -1,4 +1,4 @@
-My Discord account;
+Discord account;
 
 <a href="https://discord.com/users/845984729748865026"><img src="https://img.shields.io/badge/Laurént%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=black"></a>
 
