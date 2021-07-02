@@ -1,3 +1,10 @@
+
+<p align="center">
+
+  <a href="https://discord.com/users/845984729748865026"><img src="https://img.shields.io/badge/Laurént%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+
+  <a href="https://github.com/emirhanyaka"><img src="https://img.shields.io/badge/Laurént%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
