@@ -2,16 +2,6 @@ Discord account;
 
 <a href="https://discord.com/users/845984729748865026"><img src="https://img.shields.io/badge/Laurént%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=black"></a>
 
-To communicate;
-<p align="center">
-
-  <a href="https://www.instagram.com/emirhanyakaa"><img src="https://img.shields.io/badge/Laurént%20-7289DA.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
-  
-
-
-<a href="https://www.twitter.com/emirhanyakaa"><img src="https://img.shields.io/badge/Laurént%20-7289DA.svg?&style=for-the-badge&logo=twitter&logoColor=black"></a>
-
-
 My data;
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
