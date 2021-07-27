@@ -13,15 +13,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **My data;**
   
-![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact&show_icons=true&theme=dark&hide_border=true"width="%100" height="150px" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact)](https://github.com/wanxysalvo/wanxysalvo)
-
- <img src="https://github-readme-stats.vercel.app/api?username=wanxysalvo&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact&show_icons=true&theme=dark&hide_border=true"width="%100" height="150px" />
+![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact&show_icons=true&theme=dark&hide_border=true"width="%100" height="150px" />
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact)](https://github.com/wanxysalvo/wanxysalvo)
 
 ## 🧰 **Languages and Tools:**
 <p align="center">
