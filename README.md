@@ -12,9 +12,11 @@
 
 ## 📫 **My data;**
   
-![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact)](https://github.com/wanxysalvo/wanxysalvo)
+![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=demo)](https://github.com/wanxysalvo/wanxysalvo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=demo)](https://github.com/wanxysalvo/wanxysalvo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact)](https://github.com/wanxysalvo/wanxysalvo)
+
+
 
 
 ## 🧰 **Languages and Tools:**
