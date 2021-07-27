@@ -9,7 +9,6 @@
 ## ⚡ **Discord account;**
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852937437864656916)](https://discord.com/users/852937437864656916)
-https://discord.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg
 
 ## 📫 **My data;**
   
