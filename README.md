@@ -13,8 +13,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **My data;**
   
-![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact)](https://github.com/wanxysalvo/wanxysalvo)
-
 <p align=center>
   <a href="https://github.com/wanxysalvo/wanxysalvo" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=gotham">
