@@ -6,6 +6,8 @@
     <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/wanxysalvo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 </p>
 
+<a href="https://github.com/wanxysalvo"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wanxysalvo&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
+
 ## ⚡ **Discord account;**
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852937437864656916)](https://discord.com/users/852937437864656916)
@@ -13,8 +15,6 @@
 ## 📫 **My data;**
   
 ![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact)](https://github.com/wanxysalvo/wanxysalvo)
-
-<a href="https://github.com/wanxysalvo"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wanxysalvo&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
 
 ## 🧰 **Languages and Tools:**
 <p align="center">
