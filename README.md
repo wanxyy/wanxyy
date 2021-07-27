@@ -14,6 +14,9 @@
   
 ![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&langs_count=8)](https://github.com/wanxysalvo/wanxysalvo) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact)](https://github.com/wanxysalvo/wanxysalvo)
+
+
 ## 🧰 **Languages and Tools:**
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
