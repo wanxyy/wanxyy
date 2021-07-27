@@ -9,6 +9,8 @@
 ## ⚡ **Discord account;**
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852937437864656916)](https://discord.com/users/852937437864656916)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 **My data;**
   
