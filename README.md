@@ -1,12 +1,12 @@
-## **About me;**
+## 💬 **About me;**
 
    Hello, I'm Wánxy. To briefly talk about myself, I have been dealing with discord and telegram bots for a long time, and I am also interested in website designs - arrangements. In this github profile, bot infrastructure sharing will start soon, I recommend you to follow :). Nice to meet you, if you want to reach me, my social media accounts are below, good forums.
 
-## **Discord account;**
+## ⚡ **Discord account;**
 
 <a href="https://discord.com/users/852937437864656916"><img src="https://img.shields.io/badge/Wánxy%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=black"></a>
 
-## **My data;**
+## 📫 **My data;**
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
