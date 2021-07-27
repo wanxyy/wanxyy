@@ -9,12 +9,12 @@
 ## ⚡ **Discord account;**
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852937437864656916)](https://discord.com/users/852937437864656916)
-[![Wánxy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo)](https://github.com/wanxysalvo/wanxysalvo)
-
 
 ## 📫 **My data;**
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&langs_count=8)](https://github.com/wanxysalvo/wanxysalvo)
+
+![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark)
 
 ## 🧰 **Languages and Tools:**
 <p align="center">
