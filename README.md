@@ -4,7 +4,7 @@
 
 ## ⚡ **Discord account;**
 
-<a href="https://discord.com/users/852937437864656916"><img src="https://img.shields.io/badge/Wánxy%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=black"></a>
+<a href="https://discord.com/users/852937437864656916"><img src="https://img.shields.io/badge/Wánxy%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ## 📫 **My data;**
   
