@@ -22,6 +22,8 @@
   </a>
 </p>
 
+![GitHub Aktivite Grafiği](https://activity-graph.herokuapp.com/graph?username=wanxysalvo)  
+
 
 ## 🧰 **Languages and Tools:**
 <p align="center">
