@@ -8,7 +8,7 @@
 
 ## ⚡ **Discord account;**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852937437864656916)](https://discord.com/users/852937437864656916)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:852937437864656916)](https://discord.com/users/:852937437864656916)
 
 <a href="https://discord.com/users/852937437864656916"><img src="https://img.shields.io/badge/Wánxy%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
