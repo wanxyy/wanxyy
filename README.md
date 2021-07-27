@@ -26,7 +26,6 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=default)](https://open.spotify.com/user/77m3lxxwe712udp38edyrdljm)
 
 
 <!--
