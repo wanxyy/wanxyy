@@ -13,14 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **My data;**
   
-<p align=center>
-  <a href="https://github.com/wanxysalvo/wanxysalvo" title="Go to Source">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/wanxysalvo/wanxysalvo">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
-</p>
+
 
 ## 🧰 **Languages and Tools:**
 <p align="center">
