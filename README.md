@@ -2,12 +2,13 @@
 
    Hello, I'm Wánxy. To briefly talk about myself, I have been dealing with discord and telegram bots for a long time, and I am also interested in website designs - arrangements. In this github profile, bot infrastructure sharing will start soon, I recommend you to follow :). Nice to meet you, if you want to reach me, my social media accounts are below, good forums.
 
+<a href="https://github.com/wanxysalvo">
+    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/wanxysalvo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow Me"/></a>
+</p>
+
 ## ⚡ **Discord account;**
 
 <a href="https://discord.com/users/852937437864656916"><img src="https://img.shields.io/badge/Wánxy%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://github.com/wanxysalvo">
-    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/wanxysalvo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt"/></a>
-</p>
 
 ## 📫 **My data;**
   
