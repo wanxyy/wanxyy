@@ -23,6 +23,11 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<a href="https://github.com/EmirhanSarac">
+    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/wanxysalvo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=TakipEt"/></a>
+</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c4s670qo583r9ebuko9om51x3&cover_image=true&theme=default)](https://open.spotify.com/user/c4s670qo583r9ebuko9om51x3?si=1e91cc66d1344f67)
 
 
 <!--
