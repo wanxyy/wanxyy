@@ -11,7 +11,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852937437864656916)](https://discord.com/users/852937437864656916)
 
-## 📫 **My data;**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **My data;**
   
 ![Wánxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanxysalvo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanxysalvo&layout=compact)](https://github.com/wanxysalvo/wanxysalvo)
 
