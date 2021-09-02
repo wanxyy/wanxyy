@@ -11,6 +11,8 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852937437864656916)](https://discord.com/users/852937437864656916)
 
+![Discord](https://discord.c99.nl/widget/theme-4/852937437864656916.png)
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **My data;**
   
 <p align=center>
