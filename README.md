@@ -3,7 +3,7 @@
    Hello, I'm Wánxy. To briefly talk about myself, I have been dealing with discord and telegram bots for a long time, and I am also interested in website designs - arrangements. In this github profile, bot infrastructure sharing will start soon, I recommend you to follow :). Nice to meet you, if you want to reach me, my social media accounts are below, good forums.
 
 <a href="https://github.com/wanxysalvo">
-    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/wanxysalvo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>  <a href="https://github.com/wanxysalvo"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wanxysalvo&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
+    <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wanxysalvo&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **My data;**
