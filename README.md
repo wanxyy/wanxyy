@@ -1,3 +1,12 @@
+<p align="center">
+    <a href="https://github.com/wanxyy">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Developed+By+Wanxy"
+            alt="Wanxy Official"
+        />
+    </a>
+</p>
+
 ## 💬 **About me;**
 
    Hello, I'm Wánxy. To briefly talk about myself, I have been dealing with discord and telegram bots for a long time, and I am also interested in website designs - arrangements. In this github profile, bot infrastructure sharing will start soon, I recommend you to follow :).
@@ -24,15 +33,6 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-<p align="center">
-    <a href="https://github.com/wanxyy">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Developed+By+Wanxy"
-            alt="Wanxy Official"
-        />
-    </a>
 </p>
 
 
