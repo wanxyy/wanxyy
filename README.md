@@ -1,11 +1,4 @@
-<p align="center">
-    <a href="https://github.com/wanxyy">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Wanxy+Was+Here!"
-            alt="Wanxy Official"
-        />
-    </a>
-</p>
+
 <p align="center">
     <a href="https://github.com/wanxyy">
         <img
