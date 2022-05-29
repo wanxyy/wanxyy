@@ -6,14 +6,6 @@
         />
     </a>
 </p>
-<p align="center">
-    <a href="https://github.com/wanxyy">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Wanxy+Was+Here!"
-            alt="Wanxy Official"
-        />
-    </a>
-</p>
 
 ## 💬 **About me;**
 
@@ -21,6 +13,15 @@
 
 <a href="https://github.com/wanxysalvo">
     <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wanxysalvo&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/wanxyy">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Wanxy+Was+Here!"
+            alt="Wanxy Official"
+        />
+    </a>
 </p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **My data;**
